@@ -1,3 +1,3 @@
 # H3Kit
 
-A description of this package.
+the h3 algorithm.
